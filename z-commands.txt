@@ -20,3 +20,13 @@ npm install @types/lodash -D
 npm install uuid
 
 npm install class-validator
+
+npm install chance
+npm install @types/chance
+
+npm install sequelize sequelize-typescript
+npm install @types/sequelize --save-dev
+
+npm install sqlite3
+
+npm install dotenv
